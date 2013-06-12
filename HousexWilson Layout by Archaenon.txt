@@ -1,0 +1,319 @@
+LASTN_TALK_READLINK=><a href="%%urlread%%"><b>%%messagecount%%</b></a>|
+
+LASTN_HEAD<=
+
+<title>[.Bertrum Wilburforce Wooster v.s. Jeeves.]</title>
+
+<style type="text/css">
+div div{visibility:hidden;position:absolute;top:1px;}
+tr.caption{visibility:hidden;position:absolute;top:1px}
+<!--
+
+body {
+overflow-x: hidden;
+margin-top: 610px;
+background: #3E3F4E;
+overflow:-moz-scrollbars-vertical;
+background-image: url(http://img84.imageshack.us/img84/3038/background8os.jpg);
+background-repeat: repeat-y;
+}
+
+a:visited {
+text-decoration: none;
+color: #ffffff;
+}
+
+a:link {
+text-decoration: none;
+color: #3E3F4E;
+}
+
+a:active {
+text-decoration: none;
+color: #ffffff:
+}
+
+a:hover {
+cursor: help;
+text-decoration: none;
+color: #375D70;
+}
+
+table {
+width: 430px;
+margin-left: 235px;
+margin-right: 50%;
+}
+
+table.entrybox td {
+font-size: 9;
+}
+
+table table table td.meta {
+font-size: 9;
+}
+
+.comments {
+font-size: 9;
+}
+
+p table table td.caption {
+font-weight: bold;
+letter-spacing: 3px;
+text-transform: uppercase;
+}
+
+table, tr, td, .shadowed {
+background: transparent;
+}
+
+table.side {
+position: absolute; 
+top: 280px; 
+left: 35px; 
+width: 200px;
+z-index: 15;
+visibility: visible; 
+text-align: justify;
+}
+
+table table { 
+width: 100%; 
+margin:0; 
+border:0;
+} 
+table table table { 
+width: auto; 
+}
+
+body, td, font, div, p { 
+font-family: verdana;
+font-size: 9;
+color: #E7E5CA;
+letter-spacing: 1px;
+}
+
+tr.caption{
+display:none
+} 
+
+.shadowed img{
+visibility:hidden;position:absolute;top:0
+}
+
+.shadowed td div{
+visibility: hidden; 
+position: absolute; 
+top: 1px
+}
+
+p table table td.caption, td.index {
+height: 24;
+padding: 3;
+background-image: url(http://yourhost.com/atlantis_03.jpg);
+}
+
+.index {
+font-size: 9;
+}
+.meta {
+font-size: 9;
+}
+
+-->
+</style>
+<=LASTN_HEAD
+
+LASTN_DATE_FORMAT=><b>%%monlong%% %%dth%%, %%yyyy%%</b> | %%24hh%%.%%min%%
+
+LASTN_WEBSITE<=
+
+<table class="side" cellspacing="0" cellpadding="10">
+<tr valign="middle">
+<td class="index">
+<B>W H A T ?</b>
+</td>
+</tr>
+<tr valign="top">
+<td>
+[<a href="http://livejournal.com/users/tira/">x</a>] RECENT ENTRIES
+<br>
+[<a href="http://livejournal.com/users/tira/friends">x</a>] FRIENDS ENTRIES
+<br>
+[<a href="http://www.livejournal.com/userinfo.bml?user=tira&amp;mode=full">x</a>] PROFILE & INFO
+
+<br>
+[<a href="http://www.livejournal.com/allpics.bml?user=tira">x</a>] ICONS/USERPICS
+
+<br>
+[<a href="http://pics.livejournal.com/tira/gallery/0002kykd">x</a>] WALLPAPERS
+<br>
+[<a href="http://www.livejournal.com/tools/memories.bml?user=tira">x</a>] MEMORIES & PICTURES
+<br>
+[<a href="http://archaenon.deviantart.com">x</a>] DEVIANT PAGE
+<br>
+[<a href="http://yaoi.y-gallery.net/user/archaenon/">x</a>] MANXMAN PRON
+
+<br>
+[<a href="http://archeanon.livejournal.com">x</a>] GRAPHICS JOURNAL
+<br>
+[<a href="http://tira.livejournal.com/297862.html">x</a>] LJ LAYOUTS
+<br>
+[<a href="Http://hisashiimai.livejournal.com">x</a>] PRIVATE JOURNAL
+<br>
+[<a href="http://www.last.fm/user/archaenon">x</a>] LAST.FM PAGE
+
+<br>
+[<a href="http://www.archaenon.net">x</a>] OFFICIAL HOMEPAGE
+<br>
+
+[<a href="http://www.archaenon.net/agree.html">x</a>] SECTION XIII OHP
+<br>
+[<a href="http://www.archaenon.net/oekaki">x</a>] SXIII OEKAKI
+<br>
+[<a href="mailto:archaenon@gmail.com">x</a>] CONTACT ME
+<br>
+<br>
+</td>
+</tr>
+
+<tr valign="middle">
+<td class="index">
+<b>H M M M </b>
+</td>
+</tr>
+<tr valign="top">
+<td>
+"I DON'T WANT TO BE MOLDED , I'M NOT A JELLY"
+<br>
+- Bertie
+</td>
+</tr>
+
+<tr valign="middle">
+<td class="index">
+<b>P R O P E R T Y</b>
+</td>
+</tr>
+<tr valign="top">
+<td>
+I'm eccentric , I'm boring , I'm fun , I can be a downright Bitch. I have bizarre tendencies. I love knowledge , reading , learning , there is always time to learn. I don't like being interrupted , I also don't like to begin a conversation. Out going , resourceful , damnsome blunt and straightfoward. I like people , like I like everything else , appreciative , caring , kind , knowledgeable , fun-filled , outgoing , introverted , a mystery , raving lunatics , mad-badgers need apply. Crazy , almost thirsty for knowledge with a willingness to learn and to be taught. I clash severely with other artists...Other independent thinkers and those who dare oppose my logic. Not really , but it's nice to have a solid debate once in awhile. So I'm content with wanting to meet everyone , and learn all about you , but do you think you have what it takes , the stamina , the want , the will , the way , and the nicely placed tray of treats to catch my attention , as well as keep yours? If so , visit my Wankery to learn how to add my rambalings and ravings to your everyday read.
+</td>
+</tr>
+
+<tr valign="middle">
+<td class="index">
+<b>I  S A Y!</b>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<b>Main Occupation</b><br>
+- Illustrator<br>
+- Comic Penciler/<br>
+Panelist/Inker/Colorist<br>
+- Painter/Digital Painter<br>
+- Webdesigner<br>
+- 3-D Modeling and Texturing<br>
+- 2-D Animation<br>
+- Graphic Desing<br>
+<br>
+<b>Contact Informtion</b><br>
+AIM: Girugumesh<br>
+MSN: Archaenon@Gmail.com<br>
+Y!: Archeanon@Yahoo.com<br>
+SLSK: Archaenon<br>
+</td>
+</tr>
+
+<tr valign="middle">
+<td class="index">
+<b>T R U S T  M E</b>
+</td>
+</tr>
+<tr valign="top">
+<td>
+12012, aardman studios, ab fab, alexander anderson, allo' allo', animation, apoptygma berzerk, arc-sama, archaenon, are you being served?, art, artists, bbc, beat takeshi, bill bailey, black books, blackadder, blues, bo selecta, britcoms, buck-tick, calmando qual, cheesy snacks, coding, comedy, comics, covenant, croc shop, dir en grey, dylan moran, father ted, germany, gershwin, girugumesh, greg lineham, happiness, hellsing, highlander, hugh laurie, icon of coil, ideas, industrial, ireland, iscariot, j-rock, jazz, juno reactor, kagerou, kmfdm, knowledge, layout, life, little britian, love, malice mizer, mozart, music, news, painting, pixar, plays, politics, rammstien, reading, red dwarf, robert llywellen, rowan atkison, schwein, shakesspear, sherlock holmes, simon pegg, stand up, stephen fry, sushi, tamsien grieg, the young ones, uk, vivaldi, vnv, wiki, world, ????, ???, ???????, ?????, ??????, ???, ??????, ???, ?, ????, ??, ??, ??, ??, ?, ?, ??, ????, ??, ???sodomy, ??, ????, ?, ?, ??, ?, ??, ?, ??, ?, ??, ? ~???~, ?-miyavi-, ??, ??.
+</td>
+</tr>
+
+<tr valign="middle">
+<td class="index">
+<b>L A Y O U T S</b>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<i>Most Current</i><br>
+<a href="http://img101.imageshack.us/img101/2360/hxw6ak.jpg">House x Wilson</a>
+<br>
+<br>
+
+<a href="http://img84.imageshack.us/img84/1112/mdhouse4ze.jpg">House M.D cast</a><br>
+<a href="http://img364.imageshack.us/my.php?image=buckticklayout1ek.jpg">Buck Tick</a><br>
+<a href="http://img97.imageshack.us/my.php?image=journallayoutsresized7zy6vx.jpg">Stephen Fry</a><br>
+<a href="http://img97.imageshack.us/my.php?image=journallayouts2resized3ty.jpg">Dylan Moran</a><br>
+<a href="http://img354.imageshack.us/my.php?image=blackbookslayoutresized6kg.jpg">Black Books Cast</a><br>
+
+</td>
+</tr>
+
+<tr valign="middle">
+<td class="index">
+credits
+</td>
+</tr>
+<tr valign="top">
+<td>
+Layout done in Notepad , with Photoshop 7. All images taken from screenshots I made. Please do not use without permission.
+<br>
+<br>
+No..before you ask , I will NOT make you a layout. I'm busy enough as is.
+</td>
+</tr>
+</table>
+
+<img style="
+	visibility: visible; 
+	position: absolute;
+        " 
+src="http://img95.imageshack.us/img95/1873/finalheader2wj.jpg" class="x" usemap="#map" border="0">
+
+<map name="map">
+<area shape="rect" alt="http://tira.livejournal.com/profile" coords="211,252,243,262" href="http://tira.livejournal.com">
+<area shape="rect" alt="" coords="171,252,202,262" href="http://tira.livejournal.com/158355.html">
+<area shape="rect" alt="" coords="118,252,158,262" href="http://www.greatestjournal.com/allpics.bml?user=archaenon">
+<area shape="rect" alt="" coords="75,252,109,262" href="friends">
+<area shape="rect" alt="" coords="37,252,66,263" href="profile">
+</map>
+
+<style type="text/css">
+<!--
+.x {
+position:absolute; left:0px; top:0px; z-index: 1; }
+
+table table table table .meta {visibility:hidden;position:absolute;top:1px}
+table table table table table .meta {visibility:visible;position:relative;top:1px}
+
+tr.caption{
+display:none
+}
+
+.shadowed td div{
+visibility: hidden;
+position: absolute;
+top: 1px
+}
+
+-->
+</style>
+<=LASTN_WEBSITE
+
+LASTN_TALK_LINKS<=
+<tr>
+<td align="right" colspan="2" width="100%" bgcolor="%%color:weak_back%%" class="comments">
+%%readlink%%<a href="%%urlpost%%">Oh Snap!</a>
+</td>
+</tr>
+<=LASTN_TALK_LINKS
+

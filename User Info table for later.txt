@@ -1,0 +1,22 @@
+<table width="65%" border="0" cellspacing="0" cellpadding="0"><tr><td>
+<table width="100%" border="0" cellspacing="5" cellpadding="7">
+<tr><td width="53%" bgcolor="#0099FF"><font face="Georgia, Times New Roman, Times, serif" color="#f4f4f4" size="+2">Hola!</font></td>
+<td width="47%" bgcolor="#FF3333"><font face="Georgia, Times New Roman, Times, serif" color="#f4f4f4" size="+2">Título 2</font></td>
+</tr><tr>
+<td valign="top" bgcolor="#eeeeee"><font face="Georgia, Times New Roman, Times, serif" color="#333333">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer  eleifend. Aenean tempus enim ut lorem. Aliquam faucibus consequat quam.  Nam id enim quis nibh placerat condimentum. Donec ac leo ut orci  pharetra malesuada. Sed ut nunc ac mi pellentesque placerat. Integer  vestibulum. Phasellus elit turpis, convallis at, varius ut, viverra  sed, ante. 
+(<a href="YOUR URL HERE"><font color="#0099FF"><u>Copy me to make a colored link</u></font></a>)</font></td>
+<td valign="top" bgcolor="#eeeeee"><font face="Georgia, Times New Roman, Times, serif" color="#333333">Nullam aliquam, nulla non vehicula commodo, ante metus adipiscing velit, et commodo metus elit ut tellus. Nullam elit nulla, pellentesque ac, convallis eu, posuere non, erat. Fusce tortor sem, congue sed, ornare in, pretium a, mi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Cras justo libero, fermentum et, sagittis ut, lobortis sed, mi.
+(<a href="YOUR URL HERE"><font color="#FF3333"><u>Copy me to make a colored link</u></font></a>)</font></td></tr></table></td></tr><tr><td>
+<table width="100%" border="0" cellspacing="5" cellpadding="7">
+<tr><td width="40%" bgcolor="#00CC00"><font face="Georgia, Times New Roman, Times, serif" color="#f4f4f4" size="+2">Título 3</font></td>
+<td width="39%" bgcolor="#FF3399"><font face="Georgia, Times New Roman, Times, serif" color="#f4f4f4" size="+2">Título 4</font></td>
+<td width="21%" bgcolor="#6633CC"><font face="Georgia, Times New Roman, Times, serif" color="#f4f4f4" size="+2">Links</font></td>
+</tr><tr>
+<td valign="top" bgcolor="#eeeeee"><font face="Georgia, Times New Roman, Times, serif" color="#3333333">Duis imperdiet metus non dui. Vivamus quis est. Aliquam nec libero. Pellentesque purus. Donec tortor ligula, iaculis vel, vestibulum eget, pretium sed, quam. Cras sollicitudin, est ut suscipit dignissim, eros tortor feugiat massa, eget tristique sapien diam id felis. Etiam ut est.
+(<a href="YOUR URL HERE"><font color="#00CC00"><u>Copy me to make a colored link</u></font></a>)</font> </td>
+<td valign="top" bgcolor="#eeeeee"><font face="Georgia, Times New Roman, Times, serif" color="#3333333">Duis justo quam, egestas eu, facilisis at, vestibulum ac, augue. Aenean  non est et ipsum sollicitudin cursus. Ut elementum turpis et lectus.  Mauris sit amet orci.
+(<a href="YOUR URL HERE"><font color="#FF3399"><u>Copy me to make a colored link</u></font></a>)</font></td>
+<td valign="top" bgcolor="#eeeeee"><font face="Georgia, Times New Roman, Times, serif" color="#3333333"><a href="http://community.livejournal.com/frozen_mint/profile"><font color="#6633CC"><u>Profile Code</u></font></a>
+<a href="YOUR URL HERE"><font color="#6633CC"><u>Link</u></font></a>
+<a href="YOUR URL HERE"><font color="#6633CC"><u>Link</u></font></a></font></td>
+</tr></table></td></tr></table>

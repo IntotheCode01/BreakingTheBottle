@@ -1,0 +1,107 @@
+/*------------------------------------------------------------------
+ S2 Flexible Squares
+ Layout by snubbly @ http://snubbly.livejournal.com
+--------------------------------------------------------------------*/
+
+body {background: #E2E2E2; text-align: left; color: #676767; font-family: arial, sans-serif; font-size: 8pt; margin: 0;}
+::-moz-selection {color: #FFF; background: #FFAA3F;}
+
+a, a:link, a:visited {color: #FF0000; text-transform: uppercase; text-decoration: none; cursor: crosshair;}
+a:hover {color: #660000; text-transform: lowercase; text-decoration: none; cursor: crosshair;}
+h2 {padding-left: 30px; font-size: 8pt; text-transform: uppercase;}
+
+#content {width: 600px; margin: 0 auto; background: #FFF;}
+#maincontent {margin-right: 70px; text-align: left; background: #FFF;}
+#sidebar {background: #FDFDFD;  border: 1px solid #F8F8F8; width: 100px; float: right; text-align: right; padding: 10px;}
+#sidebar .defaultuserpic img {background: #FDFDFD; border: 1px solid #F8F8F8; padding: 5px;}
+#header {background: #F8F8F8; width: auto; padding: 15px 0; margin: 0 auto; text-align: center; font-weight: bold;}
+#sidebar .defaultuserpic {text-align: center;}
+div#header a, div#footer a {font-variant: small-caps;}
+
+.title, .subtitle {display: none;}
+ul.navheader {padding: 0; margin: 0;}
+ul.navheader li {display: inline; padding: 0 10px;}
+.entry ul li {padding-left: 5px; margin-left: 15px;}
+.entry ol li {padding-left: 5px; margin-left: 15px;}
+
+.entry_text {min-height: 120px;}
+.entry {padding: 10px; margin-top: 10px; text-align: left;}
+.entry_text img {max-width: 420px; overflow: hidden;}
+.userpic {position: relative; float: left; background: #FDFDFD; padding: 5px; margin: 10px; border: 1px solid #F8F8F8;}
+
+.datesubject {text-align: right; font-variant:	small-caps;}
+.date {margin: 20px 10px 0 0; color: #999999;}
+.subject {font-weight: bold;}
+.subject a {color: #FF0000;}
+.subject a:hover {color: #676767;}
+
+.currents {color: #999999; text-align: left; font-variant: small-caps;}
+.ljtags {padding-top: 10px; color: #999999; font-weight: bold; text-align: left; font-variant: small-caps} 
+.ljtaglist {list-style-type: square;} 
+.comments {text-align: right;}
+div.comments a {font-variant: small-caps; font-weight: bold;}
+.userpicfriends {position: relative; float: left; padding: 5px; margin: 10px; text-align: center; color: #FF0000; border: 1px solid #F8F8F8;
+background-color: #FDFDFD !important; font-family: arial, sans-serif; font-size: 8pt;}
+
+.sbartitle, .sbarbody, .sbarbody2 {padding: 0;}
+.sbarcalendar, .sbarcalendarposts {text-align: center;}
+ul.sbarlist {padding-left: 0; margin-left: 0; list-style: none;}
+li.sbaritem {padding-left: 0; list-style: none;}
+li.sbartitle {padding-left: 0; list-style: none; margin: 10px 0; text-transform: uppercase; font-size: 8pt; font-weight: bold;}
+li.view {font-variant: small-caps;}
+
+#footer {text-align: center; font-weight: bold; clear: both; text-transform: uppercase;}
+ul.navfooter {padding: 0; margin: 0;}
+ul.navfooter li {display: inline; margin: 0 10px;}
+ul.year {text-align: center; padding-bottom: 40px;}
+ul.year li {display: inline;}
+
+.clearfoot {clear: both;}
+table.yeartable {margin: 0 auto;}
+table.yeartable td.yeardate, table.yeartable td.yearday {border: 1px solid #F8F8F8;}
+table.yeartable td.yearday {background: #F8F8F8; text-align: center;}
+td.yearmonth {border: 0;}
+
+input, textarea, select, option, button {font-family: arial, sans-serif; background: #FDFDFD; border: 1px solid #F8F8F8; font-size: 8pt; color:#676767;}
+#postform img {display: none;}
+textarea.textbox {width: 95% !important;}
+.datesubjectcomment {background: #F8F8F8; padding: 5px; margin-top: 20px;}
+.userpiccomment {position: relative; top: -30px; left: 0; border: 5px solid #FDFDFD; background: #FDFDFD; padding: 5px;
+margin: 10px 10px -20px 10px; float: left; border: 1px solid #F8F8F8;}
+.box {border: 0p; padding: 10px; clear: none !important;}
+.reply {position: relative; margin: 20px 30px 10px 30px; padding: 25px 10px 10px 10px; text-align: left; background: #FDFDFD; color: #676767;}
+.replytosubject {font-weight: bold;}
+.commentreply {position: relative; margin: 10px; font-size: 8pt; font-family: arial, sans-serif; color: #676767;}
+.commentbox {border: 1px solid #F8F8F8; margin: 10px; background: #FDFDFD;}
+.datesubjectcomment a:link {color: #676767;}
+.commentboxpartial {border: 1px solid #F8F8F8; margin: 10px; background: #FDFDFD;}
+.commentinfo {background: #FDFDFD; margin-top: 10px; width: 100%;} 
+.skiplinks {text-align: center;}
+
+/*--------------------------------------------------------
+ Tiny Icons by http://famfamfam.com
+-----------------------------------------------------------*/
+.entry img[src="http://p-stat.livejournal.com/img/icon_protected.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important;
+background: url(http://img410.imageshack.us/img410/5689/locksp5.png);}
+.entry img[src="http://p-stat.livejournal.com/img/icon_private.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important;
+background: url(http://img99.imageshack.us/img99/7119/keyyi6.png);}
+.subject img[src="http://p-stat.livejournal.com/img/icon_protected.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important;
+background: url(http://img410.imageshack.us/img410/5689/locksp5.png);}
+.subject img[src="http://p-stat.livejournal.com/img/icon_private.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important;
+background: url(http://img99.imageshack.us/img99/7119/keyyi6.png);}
+#sidebar_summary img[src="http://p-stat.livejournal.com/img/icon_protected.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important;
+background: url(http://img410.imageshack.us/img410/5689/locksp5.png);}
+#sidebar_summary img[src="http://p-stat.livejournal.com/img/icon_private.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important;
+background: url(http://img99.imageshack.us/img99/7119/keyyi6.png);}
+.ljuser img {width: 0; height: 0; background-repeat: no-repeat; background-color: transparent;
+background-image: url(http://img294.imageshack.us/img294/9362/userei1.png); padding: 16px 16px 0 0 !important;}
+.ljuser img[src="http://p-stat.livejournal.com/img/userinfo.gif"] {background-color: transparent;
+background-image: url(http://img294.imageshack.us/img294/9362/userei1.png); padding: 16px 16px 0 0 !important;}
+.ljuser img[src="http://p-stat.livejournal.com/img/community.gif"] {background-color:transparent;
+background-image: url(http://img401.imageshack.us/img401/5836/groupcw8.png); padding: 16px 16px 0 0 !important;}
+
+/*----------------------------------------------------------------------------------------
+ Add Your Own Header	-	edit your width, height and header url
+-----------------------------------------------------------------------------------------*/
+.headerimage {position: relative;  margin: 0 auto; width: 600px; height: 300px;
+background: url('http://img.photobucket.com/albums/v204/Angelfirenze/Not%20My%20Banners/Headers/9-1.png?t=1213497246') no-repeat;}

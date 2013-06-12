@@ -1,0 +1,114 @@
+/*----------------------------------------------------------------------------------------------
+	S2 FLEXIBLE SQUARES  [ http://snubbly.livejournal.com ]
+-----------------------------------------------------------------------------------------------*/
+body {background: #000 url() fixed; color: #FFFFFF;font-family: lucida sans unicode, sans-serif; font-size: 9px;}
+::-moz-selection {color: #CCC; background: #7CCB47;}
+
+a, a:link, a:active, a:visited {color: #CCCCCC; text-transform: lowercase; letter-spacing: 1px; text-decoration: none;}
+a:hover {color: #F1F1F1; text-transform: lowercase; letter-spacing: 1px; text-decoration: none;}
+
+/*----------------------------------------------------------------------------------------------
+	PAGE SET-UP
+-----------------------------------------------------------------------------------------------*/
+#header, #footer {background: #000; width: auto; padding: 15px 0px 15px 0px; text-align: right; text-transform: uppercase; font-weight: bold;}
+#header a, #footer a {text-transform: uppercase;}
+#content {background: #000; width: 900px; margin-left: 10px;}
+#maincontent {background: #000; margin-left: 225px; text-align: right;}
+#sidebar {background: #000; width: 180px; float: left; text-align: left; margin-left: 5px;}
+#sidebar a {text-transform: lowercase;}
+
+.title, .subtitle, .clearfoot, .clear {display: none;}
+ul.navheader, ul.navfooter {padding: 0; margin: 0;}
+ul.navheader li, ul.navfooter li {display: inline; padding: 0 10px;}
+.entry ul li, .entry ol li {padding-left: 5px; margin-left: 10px;}
+#lj_controlstrip {text-transform: lowercase;}
+
+/*----------------------------------------------------------------------------------------------
+	ENTRIES
+-----------------------------------------------------------------------------------------------*/
+.subcontent {padding: 10px; margin-top: 10px; text-align: justify;}
+.entry_text {margin-top: 10px; font-family: lucida sans unicode, sans-serif; font-size: 12px;}
+.entry_text img {max-width: 600px; overflow: hidden;}
+
+.date {color: #CCC; text-align: right; font-family: lucida sans unicode, sans-serif; text-transform: uppercase;}
+.subject {letter-spacing: 2px; font-weight: bold; font-size: 14pt; font-style: italic; color: #FFFFFF; border-bottom: 1px dashed #D1D1D1; text-transform: uppercase; padding-bottom: 2px;}
+
+.currents {color: #CCC; text-transform: uppercase;}
+.ljtags {margin-top: 10px; color: #CCC; font-weight: bold; font-family: lucida sans unicode, sans-serif; font-size: 9px; text-align: left; text-transform: uppercase;} 
+.ljtaglist {list-style-type: square;} 
+
+.comments {text-align: right; font-weight: bold; margin: 10px 0; clear: right;}
+.comments a {text-transform: uppercase;}
+.separator {height: 10px;}
+
+h2 {padding-left: 20px; letter-spacing: 2px; font-size: 14pt; font-style: italic; color: #CCCCCC; border-bottom: 1px dashed #D1D1D1; text-transform: uppercase;}
+.userpic {position: relative; float: left; padding: 5px; margin-right: 10px; border: 0; background-color: #1D1D1D;}
+.userpicfriends {position: relative; float: left; padding: 5px; margin-right: 10px; text-align: center; border: 0; background-color: #FFFFFF !important; font-family: lucida sans unicode; font-size: 9px; letter-spacing: 1px;}
+
+/*----------------------------------------------------------------------------------------------
+	SIDEBAR
+-----------------------------------------------------------------------------------------------*/
+#sidebar .defaultuserpic {text-align: center;}
+#sidebar .defaultuserpic img {background: #1D1D1D; border: 1px solid #1D1D1D; padding: 5px;}
+
+.sbarbody {padding: 0;}
+.sbarbody2 {padding: 0; font-family: verdana, sans-serif; font-size: 10px;}
+.sbartitle {color: #CCCCCC; border-bottom: 1px dashed #D1D1D1; padding: 20px 0 2px 0; letter-spacing: 2px; font-weight: bold; font-size: 14pt; font-style: italic; text-transform: uppercase;}
+
+.calendar {background: #1D1D1D; width: 100%; line-height: 9px;}
+.sbarcalendar, .sbarcalendarposts {padding: 3px; border-bottom: 1px solid #0C0C0C; border-right: 1px solid #0C0C0C; text-align: center;}
+
+ul.sbarlist, li.sbaritem {padding: 0; margin: 0; list-style: none;}
+li.sbartitle {padding: 0; list-style: none; margin: 10px 0;}
+
+/*----------------------------------------------------------------------------------------------
+	CALENDAR PAGE
+-----------------------------------------------------------------------------------------------*/
+ul.year {text-align: center; padding-bottom: 10px;}
+ul.year li {display: inline; padding: 0 10px;}
+
+table.yeartable {margin: 0px auto; width: 85%; background: #1D1D1D; line-height: 9px;}
+table.yeartable td.yeardate, table.yeartable td.yearday {border: 1px solid #0C0C0C;}
+table.yeartable td.yearday {text-align: right;}
+
+input, textarea, select, option, button {font-family: lucida sans unicode; background: #1D1D1D; border: 1px solid #1D1D1D; font-size: 9px; letter-spacing: 1px; color: #F1F1F1;}
+
+/*----------------------------------------------------------------------------------------------
+	COMMENTS PAGE  [ paid/plus accounts ]
+-----------------------------------------------------------------------------------------------*/
+#postform img {display: none;}
+.skiplinks {text-align: center; margin: 10px 0;}
+textarea.textbox {width: 95% !important;}
+.box {border: 0; padding: 10px; clear: none !important;}
+.datesubjectcomment {background: #1D1D1D; padding: 5px; margin-top: 20px;}
+.userpiccomment {position: relative; top: -30px; left: 0; background: #1D1D1D; border: 1px solid #1D1D1D; padding: 5px; margin: 10px 10px -20px 10px; float: left;}
+.reply {position: relative; margin: 20px 30px 10px 30px; padding: 25px 10px 10px 10px; text-align: justify; background: #1D1D1D; color: #F1F1F1;}
+.commentreply {position: relative; margin: 10px; font-size: 10px; font-family: verdana, sans-serif; color: #F1F1F1;}
+.commentbox {background: #1D1D1D; border: 1px solid #1D1D1D; margin: 10px;}
+.commentboxpartial {background: #1D1D1D; border: 1px solid #1D1D1D; margin: 10px;}
+.commentinfo {background: #1D1D1D; margin-top: 10px; width: 100%;}
+.replytosubject {font-weight: bold;}
+
+/*---------------------------------------------------------------------------------------------
+	TINY ICONS  [ http://famfamfam.com ]
+-----------------------------------------------------------------------------------------------*/
+img[src*="icon_protected.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important; background: url(http://i147.photobucket.com/albums/r304/snubicons/layouts/locked.png);}
+img[src*="icon_private.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important; background: url(http://i147.photobucket.com/albums/r304/snubicons/layouts/private.png);}
+img[src*="icon_groups.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important; background: url(http://i147.photobucket.com/albums/r304/snubicons/layouts/groupcustom.png);}
+
+img[src*="btn_edit.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important; background: url(http://i147.photobucket.com/albums/r304/snubicons/layouts/pencil.png);}
+img[src*="btn_del.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important; background: url(http://i147.photobucket.com/albums/r304/snubicons/layouts/delete.png);}
+img[src*="btn_scr.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important; background: url(http://i147.photobucket.com/albums/r304/snubicons/layouts/locked.png);}
+img[src*="btn_unscr.gif"]{width: 0; height: 0; padding: 16px 16px 0 0 !important; background: url(http://i147.photobucket.com/albums/r304/snubicons/layouts/public.png);}
+img[src*="btn_freeze.gif"], img[src*="btn_unfreeze.gif"], img[src*="btn_track.gif"], img[src*="btn_tracking.gif"]{display: none;}
+
+img[src*="userinfo.gif"] {width: 0; height: 0; padding: 16px 16px 0 0 !important; background-repeat: no-repeat;
+background-image: url(http://i147.photobucket.com/albums/r304/snubicons/layouts/user.png) !important;}
+img[src*="community.gif"] {width:0; height: 0; padding: 16px 16px 0 0 !important; background-repeat: no-repeat;
+background-image: url(http://i147.photobucket.com/albums/r304/snubicons/layouts/group.png) !important;}
+
+/*----------------------------------------------------------------------------------------------
+	ADD HEADER IMAGE  [ edit the width, height and header url ]
+-----------------------------------------------------------------------------------------------*/
+.headerimage {position: relative; width: 500px; height: 334px;
+background: url(http://img.photobucket.com/albums/v204/Angelfirenze/Images/Photographs/Ryan%20Russell/chicago_nov9.jpg) no-repeat;}

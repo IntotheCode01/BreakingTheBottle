@@ -1,0 +1,610 @@
+/* damnicons.livejournal.com */
+
+	
+	body	{
+		background-color: #333333;
+		text-align: center;
+		color: #dddddd;
+		font-family: Tahoma;
+		font-size: 9px;
+		margin-top: 10px;
+		}
+	
+	a, a:link, a:visited {
+		cursor: default;
+		color: #30c4b4;
+		text-decoration: none;
+		}
+	
+	a:hover {
+		cursor: default;
+		color: #26aea0;
+		text-decoration: none;
+		}
+	
+	p, td, blockquote {
+	    	font-size: 10px;
+		background-color: #333333;
+		padding: 15px;
+		border: #dddddd 1px solid;
+		color: #ffffff;
+		}
+
+	::-moz-selection {
+		background: #30c4b4;
+		color: #ffffff;
+		}
+		
+	code, kbd, pre, tt {
+	    	font-family: monospace;
+		}
+	b {
+		color: #30c4b4;
+		font-weight: normal;
+		}
+		
+	#content
+	{  	
+		width: 600px;
+		margin-left: auto; 
+		margin-right: auto;				
+		background-color: #ffffff;
+		padding-right: 10px;
+		padding-left: 10px;
+		padding-top: 5px;
+		border: #dddddd 1px solid;
+	}
+
+ 	#maincontent {	 	
+		margin-top: 15px;
+		font-family: Tahoma;
+		font-size: 9px;
+		background-color: #ffffff;
+		color: #999999;
+		margin-right: 150px;
+		text-align: justify;
+		padding: 5px;
+		}
+	
+	#sidebar {
+		padding-top: 15px;
+		margin-top: 15px;
+		background-color: #ffffff;
+	  	font-size: 9px;
+		font-family: Tahoma;
+	  	color: #999999;
+		width: 150px;
+		float: right;
+		text-align: justify;
+		border-left: #eeeeee 1px solid;
+		text-transform: lowercase;
+		}
+
+	#header {	
+		display: none;
+		background-color: #ffffff;
+		margin: 0px;
+		text-align: center;
+		font-family: Tahoma;
+		font-size: 10px;
+		letter-spacing: 0px;	
+		color: #999999;
+		text-transform: lowercase;
+		line-height: 20px;
+		}
+
+	#footer {		
+		width: 100%;
+		text-align: center;
+		font-family: Tahoma;
+		font-size: 10px;
+		background-color: #ffffff;
+		color: #999999;
+		z-index: 100;
+		clear: both;
+		padding-top: 5px;
+		}
+		
+	/* header -- links to views; title of journal; subtitle of journal */	
+	
+	div#header a, div#header a:link, div#header a:visited, div#footer a, div#footer a:link, 
+
+div#footer a:visited {
+		color: #30c4b4;
+		text-align: right;
+	}
+	
+	div#header a:hover, div#footer a:hover {
+		color: #26aea0;
+		text-decoration: none;
+		text-align: right;
+	}	
+	
+	ul.navheader 
+		{	
+		padding: 0px;	
+		margin: 0px;
+		}
+	
+	ul.navheader li  {
+		display: inline;			
+		padding: 0 3px 0 3px;
+		}
+
+	.title	{
+		display: none;
+		background-color: #444444;
+		font-size: 10px;
+		line-height: 200%;
+		text-align: center;
+		color: #ffffff;
+		}
+	
+	.subtitle{
+		display: none;
+		background-color: #444444;
+		font-size: 10px;	
+		top: 0px;
+		padding-bottom: 15px;
+		text-align: center;
+		color: #ffffff;
+		}
+		
+
+	/* sidebar */ 	
+			
+	div#sidebar a, div#sidebar a:link, div#sidebar a:visited{
+		color: #30c4b4;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		text-decoration: none;
+		display: block;
+	}
+	
+	div#sidebar a:hover {
+		color: #26aea0;
+		text-decoration: none;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		display: block;
+	}
+	
+	.defaultuserpic {
+		text-align: center;
+		}
+	
+	.sbarheader {
+		padding: 0px 5px 0px 5px;
+		}
+	
+	.sbarbody {
+		padding: 0px 5px 0px 5px;		
+		}
+	
+	.sbarbody2 {
+		padding: 0 15px 0 15px;
+	}
+			
+	table.calendar {
+		display: none;
+		margin-right: auto;
+		margin-left: auto;
+		}
+		
+	.sbarcalendar {
+		font-family: 'Trebuchet MS', Verdana, Sans-Serif;
+		padding: 4px;
+		background-color: #ffffff;
+		text-align: center;
+		font-size: 7pt;
+		color: #999999;
+		}
+	
+	.sbarcalendarposts {
+		padding: 4px;
+		background-color: #ffffff;
+		text-align: center;
+		font-family: 'Trebuchet MS', Verdana, Sans-Serif;
+		font-size: 7pt;
+		color: #999999;
+		}
+		
+	ul.sbarlist
+	{
+		padding-left: 0px;
+		margin-left: 0px;
+		list-style: none;
+	}
+
+	li.sbaritem
+	{
+		padding-left: 15px;
+		list-style: none;		
+	}
+
+	li.sbartitle
+	{
+		display: none;
+		padding-left: 15px;
+		list-style: none;
+		background-color: #ffffff; 
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	
+	/* maincontent */	
+	
+	.subcontent {		
+	}
+
+	ul.ljtaglist li  {
+		list-style: none;
+		}
+
+
+		
+	.entry	{
+		padding: 10px 20px 10px 10px;
+		background-color: #ffffff;
+		color: #999999;
+		font-family: "Tahoma" Helvetica, sans-serif;
+		font-size: 7pt;
+		text-align: justify;
+		margin-right: 0px;
+		}
+		
+	.entry ul li
+		{
+		padding-left: 5px;
+		margin-left: 15px;
+		}
+		
+    .entry ol li
+		{
+		padding-left: 5px;
+		margin-left: 15px;
+		}
+
+	.userpic {
+		display: none;
+		position: relative;
+		float: right;
+		background-color: #ffffff;
+		padding: 5px;
+		border: #eeeeee 1px solid;
+		margin: 10px;
+		z-index: 15;
+		}
+		
+	.userpicfriends {
+		position: relative;
+		float: right;
+		padding: 10px;
+		margin: 0px;
+		background: #ffffff !important;
+		text-align: center;
+		font-family: Tahoma;
+		color: #ffffff;
+		font-size: 7pt;
+		z-index: 15;
+		}
+
+	.userpicfriends font {
+		color: #30c4b4 !important;
+		
+		}
+		
+	.date {				
+		top: 0px;
+		color: #d1d1d1;
+		font-family: Tahoma;
+		font-size: 10px;
+		text-transform: lowercase;
+		text-align: left;
+		padding-left: 10px;
+		}
+	
+	.subject {
+		color: #30c4b4;
+		font-family: Tahoma;
+		font-size: 10px;
+		padding: 0px;
+		text-transform: lowercase;
+		text-align: left;
+		padding-left: 10px;
+		}
+		
+	.subject a, .subject a:link, .subject a:visited {
+		color: #30c4b4;
+		}
+	
+	.subject a:hover {
+		color: #26aea0;
+		}	
+
+	.datesubject {				
+		background-color: #ffffff;
+		padding: 0px;
+		}
+		
+	.currents, .currentmood, .currentmusic {
+		font-family: "Verdana", sans-serif;
+		font-size: 11px;	
+		}
+
+	.comments {
+		font-family: Tahoma;
+		font-size: 10px;
+		text-align: center;
+		background-color: #ffffff;
+		color: #c1c1c1;
+		padding: 5px;
+		position: relative;
+		clear: left;
+		text-transform: lowercase;
+		}
+		
+	div.comments a, div.comments a:link, div.comments a:visited{
+		color: #30c4b4;
+	}
+	
+	div.comments a:hover {
+		color: #26aea0;
+		text-decoration: none;
+	}
+
+	
+	/* maincontent --  entry, reply pages */	
+	
+	.datesubjectcomment {				
+			background-color: #ffffff;
+			padding: 5px;
+			margin-top: 20px;
+			}	
+		
+	.userpiccomment {
+		position: relative;
+		border-width: 5px;
+		border-style: solid;
+		border-color: #ffffff;
+		background-color: #ffffff;
+		top: -30px;
+		left: 0px;
+		padding: 5px;
+		margin: 10px 10px -20px 10px;
+		z-index: 15;
+		float: right;
+		}
+		
+	.box {
+		border-style: solid;
+		border-width: 0px 0px 0px 0px;
+		border-color: #ffffff;
+		padding: 10px;
+		clear: left;
+		}
+
+	input, textarea {
+		background-color: #ffffff;
+		color: #000000;
+		}
+		
+	textarea.textbox  {
+      	width: 100% !important;
+   		}
+	
+	.reply	{
+		position: relative;
+		margin: 20px 30px 10px 30px;
+		padding: 25px 10px 10px 10px;
+		text-align: left;
+		font-family: Tahoma;
+		font-size: 10px;
+		line-height: 125%;
+		background-color: #ffffff;
+		color: #999999;
+		}
+		
+	.replytosubject {
+		font-weight: normal;
+		}
+			
+		
+	.commentreply {
+		position: relative;
+		margin: 10px;
+		font-size: 10px;
+		font-family: Tahoma;
+		color: #999999;
+		}
+		
+	.commentbox {
+		
+		border-color: #ffffff; 
+		border-width: 1px; 
+		border-style: solid; 
+		padding: 10px; 
+		margin: 10px; 
+		background-color: #ffffff;
+		}
+		
+	.datesubjectcomment a:link, .datesubjectcomment a:visited {
+		color: #ffffff;
+		}
+		
+	.datesubjectcomment a:hover {
+		color: #b0b9c8;
+		}
+	
+	.commentboxpartial {
+		border-color: #f8f8f8; 
+		border-width: 1px; 
+		border-style: solid; 
+		padding: 10px; 
+		margin: 10px; 
+		background-color: #ffffff;
+		}
+
+	.commentinfo {
+		background-color: #ffffff; 
+		margin-top: 10px; 
+		width: 100%;
+		}
+			
+		
+	/* maincontent -- year/achive pages */
+		
+	ul.year {
+		text-align: center;
+		padding-bottom: 40px;
+		}
+	
+	ul.year li {
+		display: inline;		
+		}
+	
+	table.yeartable {
+		margin-left: auto;
+		margin-right: auto;
+		}
+	
+	table.yeartable td.yeardate, table.yeartable td.yearday {
+		border-width: 1px;
+		border-style: solid;
+		border-color: #999999;
+		}
+	
+	table.yeartable td.yearday {
+		background-color: #333333;
+		text-align: center;
+		}
+	
+	td.yearmonth {
+		border-style: none;
+		}
+	
+		
+	/* footer */
+		
+	ul.navfooter{
+		padding: 0px;	
+		margin: 0px;
+		}
+	
+	ul.navfooter li  {
+		display: inline;	
+		margin: 0 5px 0 5px;
+		}
+
+		
+	.clearfoot {		
+		clear: both;
+		}
+		
+		
+	/* misc  */
+				
+	.clear {
+		height: 15px;
+		}
+		
+	.skiplinks {
+		text-align: center;
+		}
+
+		/* for formatting header image */
+
+	.separator{
+		/* for formatting separators between entries */
+		height: 15px;
+	}
+
+	.ljtags {
+		font-family: Tahoma;
+		color: #999999;
+		font-size: 10px;
+		position: left;
+		margin-top: 0px;
+		position: relative;
+		top: 30px;
+		text-transform: lowercase;
+		}
+
+    	.currents, .currentmood, .currentmusic {
+		font-family: Tahoma;
+		color: #999999;
+		font-size: 10px;
+		text-transform: none;
+		text-transform: lowercase;
+		font-weight: lighter;
+		}
+
+	
+	small {
+		font-size: 7pt;
+		}
+
+	.subject img[src="http://stat.livejournal.com/img/icon_protected.gif"] {
+		width: 0;
+		height: 0;
+		padding: 0 07px 9px 0;
+		background: url(http://img81.imageshack.us/img81/6553/lock2ba1.gif);
+		}
+
+	.subject img[src="http://stat.livejournal.com/img/icon_private.gif"] {
+		width: 0;
+		height: 0;
+		padding: 0 07px 9px 0;
+		background: url(http://img81.imageshack.us/img81/6553/lock2ba1.gif);
+		}
+
+
+	.subject img[src="http://stat.livejournal.com/img/icon_protected.gif"]{
+		width: 0;
+		height: 0;
+		padding: px px 0px 0px;
+		background: url();
+		}
+
+	.subject img[src="http://stat.livejournal.com/img/icon_private.gif"]{
+		width: 0;
+		height: 0;
+		padding: px px 0px 0px;
+		background: url();
+		}
+
+	.ljuser img { 
+  		width: 0;
+  		height: 0;
+  		background-repeat: no-repeat;
+  		background-color: transparent;
+  	        background-image: url(http://img176.imageshack.us/img176/739/66b9m74cs2hs6sg6.gif); 
+  		padding: 11px 7px 0 2px;
+		}
+
+	.ljuser img[src="http://stat.livejournal.com/img/userinfo.gif"] {
+		background-color: transparent;
+  	        background-image: url(http://img176.imageshack.us/img176/739/66b9m74cs2hs6sg6.gif);
+  		padding: 11px 7px 0 2px;
+		}
+
+	.ljuser img[src="http://stat.livejournal.com/img/community.gif"] {
+		background-color: transparent;
+ 		background-image: url(http://img176.imageshack.us/img176/739/66b9m74cs2hs6sg6.gif);
+ 		padding: 11px 7px 0 2px;
+		}
+
+
+/* HEADER IMAGE */
+	.headerimage {
+		position: relative;
+		width: px;
+		height: px;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: 0px;
+		background-image: url("");
+		background-repeat: no-repeat;
+		}
+
